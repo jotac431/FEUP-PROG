@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\jotac\Desktop\Exercicios1e2\Exercicios1e2\main.cpp(34,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jotac\Desktop\Exercicios1e2\Exercicios1e2\main.cpp(100,29): warning C4101: 'd': unreferenced local variable
+C:\Users\jotac\Desktop\Exercicios1e2\Exercicios1e2\main.cpp(305,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jotac\Desktop\Exercicios1e2\Exercicios1e2\main.cpp(306,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Exercicios1e2.vcxproj -> C:\Users\jotac\Desktop\Exercicios1e2\Debug\Exercicios1e2.exe
